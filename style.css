@@ -95,5 +95,9 @@ a {
 
 a:hover {
     color: #FAE3B0;
-    font-style: bold;
+    font-style:italic;
+}
+iframe{
+    background-color: white;
+    border-radius: 50px;
 }
